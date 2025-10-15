@@ -4,7 +4,7 @@
 
 _Decidi unir minha paixão por qualidade e experiências positivas à tecnologia._ 
 
-Comecei estudando de forma autodidata e atualmente sou aluna do programa **QA Engineer da Cesar School (Fast)**, onde tenho consolidado conhecimentos técnicos.
+Comecei estudando de forma autodidata e recentemente conclui meu aprendizado no programa **QA Engineer da Cesar School (Fast)**, onde pude adquirir e consolidar conhecimentos técnicos.
 
 Meu foco é aprender continuamente e desenvolver uma carreira sólida e completa em QA. 🚀
 
