@@ -1,6 +1,6 @@
 <h1>Olá, sou a Laura!</h1>
 
-Sou profissional em transição de carreira: deixei minha trajetória no Turismo para seguir um sonho antigo, aprender imergir de vez na Tecnologia.
+Sou profissional em transição de carreira: deixei minha trajetória no Turismo para seguir um sonho antigo, imergir de vez na Tecnologia.
 
 _Decidi unir minha paixão por qualidade e experiências positivas nessa nova trajetória._ 
 
