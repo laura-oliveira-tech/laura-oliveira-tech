@@ -16,16 +16,16 @@ AWS Cloud Portfolio
 
 <h3>Tecnologias e Ferramentas</h3>
 
-*Cloud
+* Cloud
 AWS (VPC, EC2, IAM, S3)
 
-*Infraestrutura
+* Infraestrutura
 Linux, SSH, redes
 
-*Ferramentas
+* Ferramentas
 Git, GitHub, AWS CLI, PowerShell, PuTTY, Postman, Jira
 
-*Dados
+* Dados
 SQL para análise de dados
 
 <h3>Estudos em andamento</h3>
