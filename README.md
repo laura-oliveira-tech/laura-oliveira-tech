@@ -1,38 +1,40 @@
 <h1>Olá, sou a Laura!</h1>
 
-Sou profissional em transição de carreira: deixei minha trajetória no Turismo para seguir um sonho antigo, imergir de vez na Tecnologia.
+Profissional em transição para tecnologia, atualmente em formação em Cloud Computing pelo programa **AWS re/Start**.
 
-_Decidi unir minha paixão por qualidade e experiências positivas nessa nova trajetória._ 
+_Tenho desenvolvido projetos práticos focados em infraestrutura na AWS, trabalhando com serviços como VPC, EC2, IAM e redes, além de ambientes Linux e acesso remoto via SSH._ 
 
-Comecei estudando de forma autodidata e recentemente conclui meu aprendizado no programa **QA Engineer da Cesar School (Fast)**, onde pude adquirir e consolidar conhecimentos técnicos.
+Minha formação anterior em **QA Engineer pela Cesar School** trouxe base em análise de sistemas, troubleshooting e documentação técnica, habilidades importantes para operação e suporte de ambientes em nuvem.
 
 Meu foco é aprender continuamente e desenvolver uma carreira sólida e completa em QA. 🚀
 
-<h3>🛠️ Habilidades & Ferramentas</h3>
+<h3> Cloud Projects </h3>
 
-* Linguagens de programação: 
-JavaScript (em aprendizado)
-* Frameworks de Automação de Testes: 
-Cypress (inicial)
-* Testes:
-Escrita de casos de teste com Gherkin
-Análise de tipos e técnicas de testes utilizando BDD em todo o ciclo de testes, inclusive nos defeitos e causa-raiz
-*Testes Funcionais: regressivos; Exploratórios, Smoke Teste; Integração de sistemas; API com rest
-* IDEs: VsCode, IntelliJ, Eclipse e Postman
-* Gestão de Tarefas: 
-Trello | Jira
-* Metodologias Ágeis: 
-Scrum | Kanban
-* Documentação: 
-elaboração de relatórios de bugs, planos de teste e relatórios de entrega para os steakholders
+Estou documentando meus projetos de infraestrutura neste repositório:
 
-<h3> Próximos Passos</h3>
+AWS Cloud Portfolio
+(link quando criar)
 
-* Aprimorar técnicas de Automação de testes com JavaScript
-* Explorar frameworks de testes (JUnit, Pytest, cucumber)
-* Aprofundar conhecimentos em testes de API com RestAssured
-* Me especializar cada vez mais em CI/CD
-* Completar cada vez mais esse portfólio
+<h3>Tecnologias e Ferramentas</h3>
+
+*Cloud
+AWS (VPC, EC2, IAM, S3)
+
+*Infraestrutura
+Linux, SSH, redes
+
+*Ferramentas
+Git, GitHub, AWS CLI, PowerShell, PuTTY, Postman, Jira
+
+*Dados
+SQL para análise de dados
+
+<h3>Estudos em andamento</h3>
+
+Arquitetura de redes na AWS
+Segurança em ambientes cloud
+Automação de infraestrutura com CLI e Shell Script
+Documentação contínua de projetos cloud
 
 <h3>🤝Vamos conversar?</h3>
 
