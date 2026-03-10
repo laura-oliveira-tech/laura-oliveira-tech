@@ -12,7 +12,8 @@ Minha formação anterior em **QA Engineer pela Cesar School** trouxe base em an
 Estou documentando meus projetos de infraestrutura neste repositório:
 
 AWS Cloud Portfolio
-!(aws-cloud-portfolio)
+### 
+* **[AWS Cloud Portfolio](https://github.com/laura-oliveira-tech/aws-cloud-portfolio)**
 
 <h3>Tecnologias e Ferramentas</h3>
 
