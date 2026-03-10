@@ -30,10 +30,10 @@ SQL para análise de dados
 
 <h3>Estudos em andamento</h3>
 
-Arquitetura de redes na AWS
-Segurança em ambientes cloud
-Automação de infraestrutura com CLI e Shell Script
-Documentação contínua de projetos cloud
+* Arquitetura de redes na AWS
+* Segurança em ambientes cloud
+* Automação de infraestrutura com CLI e Shell Script
+* Documentação contínua de projetos cloud
 
 <h3>🤝Vamos conversar?</h3>
 
