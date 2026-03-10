@@ -6,7 +6,6 @@ _Tenho desenvolvido projetos práticos focados em infraestrutura na AWS, trabalh
 
 Minha formação anterior em **QA Engineer pela Cesar School** trouxe base em análise de sistemas, troubleshooting e documentação técnica, habilidades importantes para operação e suporte de ambientes em nuvem.
 
-Meu foco é aprender continuamente e desenvolver uma carreira sólida e completa em QA. 🚀
 
 <h3> Cloud Projects </h3>
 
